@@ -1,0 +1,6 @@
+[submodule "_layouts"]
+	path = _layouts
+	url = https://github.com/kibi-network/layouts.git
+[submodule "style"]
+	path = style
+	url = https://github.com/kibi-network/style.git
